@@ -1,0 +1,17 @@
+Basic details
+
+Processor: Intel(R) Core(TM) i9-10980HK CPU @ 2.40GHz
+Motherboard: 	MSI MS-17E9
+RAM: 32582 MB
+BIOS: AMI (E17E9IMS.109)
+Video Adapter: Intel Graphics UHD630 (8086:9BC4) + 	GeForce RTX 2080 Super (8 GB)
+Network Adapter: Killer E2500 Gigabit Ethernet Controller
+Network Adapter: Killer(R) Wi-Fi 6 AX1650i 160MHz Wireless Network Adapter (201NGW)
+Audio: Realtek ALC1220
+Touchpad: pci8086,6e8/pci8086,6ea - Comet Lake era
+
+Itlwm code:
+- Wifi: iwlwifi-QuZ-a0-hr-*
+- Bluetooth: ibt-19-16-0.sfi
+
+Touchpad I2C code:
