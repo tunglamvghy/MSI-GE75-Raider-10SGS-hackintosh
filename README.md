@@ -7,9 +7,8 @@ Any donation would help me a lot!
 [![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
 
 # MSI GE75 Raider 10SGS
-# Mac OS X 11.2.3 BigSur (20D91)
-***This EFI can be used for previous version of macOS ***
-![Alt text](https://github.com/tunglamvghy/MSI-GE75-Raider-10SGS-hackintosh/raw/main/Screenshots/os.png)
+# Mac OS X 12.0.1 Monterey
+![Alt text](https://github.com/tunglamvghy/MSI-GE75-Raider-10SGS-hackintosh/raw/main/Screenshots/os.jpeg)
 # Specification
 - **MainBoard:** MSI MS-17E9 (AMI)
 - **Processor:** Intel(R) Core(TM) i9-10980HK CPU @ 2.40GHz
